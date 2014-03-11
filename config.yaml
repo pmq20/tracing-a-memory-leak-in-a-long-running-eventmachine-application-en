@@ -1,0 +1,21 @@
+---
+id: tracing-a-memory-leak-in-a-long-running-eventmachine-application-en
+base_name: tracing-a-memory-leak-in-a-long-running-eventmachine-application
+tags:
+- eventmachine
+- memory-leak
+presentation_date:
+version: 1.0.0
+licenses: []
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :markdown
+  name: P.S.V.R
+  email: pmq2001@gmail.com
+  rubygems_user: pmq20
+  slideshare_user: ssuser75e7be
+  speaker_deck_user: pmq20
