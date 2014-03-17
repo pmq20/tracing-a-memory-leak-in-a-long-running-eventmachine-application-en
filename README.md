@@ -1,4 +1,4 @@
-# Slide: Tracing a Memory Leak in a Long Running Eventmachine Application
+# Presentation: Tracing a Memory Leak in a Long Running Eventmachine Application
 
 In Huanteng Smart we manufacture smart household gadgets which all connect to a single long running eventmachine application to receive and send instructions with the server. This eventmachine application is a single Linux process holding all TCP connections never closes them. One day, we found that this process was leaking memory, and here is how we managed to trace its cause.
 
