@@ -1,6 +1,6 @@
 ---
-id: tracing-a-memory-leak-in-a-long-running-eventmachine-application-en
-base_name: tracing-a-memory-leak-in-a-long-running-eventmachine-application
+id: tracing-a-memory-leak-in-a-long-running-eventmachine-application
+base_name: psvr
 tags:
 - eventmachine
 - memory-leak
